@@ -1,3 +1,5 @@
-public static void greet (String name, String adress){
-    System.out.print(name, adress);
+public static void greet (String name){
+    System.out.print("Greetings for the " + name);
 }
+
+
