@@ -1,3 +1,3 @@
 public static void count () {
-	System.out.print('33');
+	System.out.print('9');
 }
