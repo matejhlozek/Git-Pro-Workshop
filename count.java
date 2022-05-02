@@ -1,3 +1,3 @@
-public static void count () {
-	System.out.print('33');
+public static void count (int age) {
+	System.out.prin(age);
 }
